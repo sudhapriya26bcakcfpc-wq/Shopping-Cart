@@ -29,7 +29,7 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 
 
 
-🔎 **Browse products, search for your favourites, and explore beautiful product cards with prices and details.**🌈🛍️
+🔎 **Browse products, search for your favourites,** #and explore beautiful product cards with prices and details.🌈🛍️
 
 🧸 **My Cart**
 
@@ -40,7 +40,7 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 
 
 
-➕ **Add your favourite products to the cart, adjust quantities, and easily view the **subtotal, shipping, and total price**.**💕🛒
+➕ **Add your favourite products to the cart, adjust quantities, and easily view the** **subtotal, shipping, and total price**.💕🛒
 
 📦 **Checkout**
 
@@ -62,7 +62,7 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 
 
 
-💰 Choose your preferred payment method, such as **Card, UPI, Net Banking, Wallet, or Cash on Delivery**.🔐💖
+💰 **Choose your preferred payment method, such as** **Card, UPI, Net Banking, Wallet, or Cash on Delivery**.🔐💖
 
 ⏳ **Payment Processing**
 
@@ -92,9 +92,9 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 💗 **Yumi makes shopping feel smooth, colourful, cute, and hassle-free!** 🌈🛍️✨
 
 
-🌸 Developed By 🌸
+🌸 **Developed By** 🌸
 
-👩‍💻 Name: M. Sudhapriya
-🎓 Course: I BCA
-🏫 College: Kamaraj College
-💖 Project: YUMI – Shopping App 🛍️✨
+👩‍💻 **Name: M. Sudhapriya**
+🎓 **Course: I BCA**
+🏫 **College: Kamaraj College**
+💖 **Project: YUMI – Shopping App** 🛍️✨
