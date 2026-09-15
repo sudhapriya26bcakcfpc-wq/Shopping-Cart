@@ -29,7 +29,7 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 
 
 
-🔎 **Browse products, search for your favourites,** #and explore beautiful product cards with prices and details.🌈🛍️
+🔎 **Browse products, search for your favourites,** and explore beautiful product cards with prices and details.🌈🛍️
 
 🧸 **My Cart**
 
