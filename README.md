@@ -1,4 +1,4 @@
-### Shopping-Cart
+### Shopping-Cart App
 
 ### Prototype Link :
 
