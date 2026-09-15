@@ -95,6 +95,14 @@ https://www.figma.com/design/KcZiyfEfYLAj8ZVd12tLLJ/Shopping-Cart?node-id=0-1&p=
 🌸 **Developed By** 🌸
 
 👩‍💻 **Name: M. Sudhapriya**
+
+
 🎓 **Course: I BCA**
+
+
 🏫 **College: Kamaraj College**
+
+
 💖 **Project: YUMI – Shopping App** 🛍️✨
+
+
